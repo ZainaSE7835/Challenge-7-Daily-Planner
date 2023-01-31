@@ -1,6 +1,8 @@
 # Challenge-7-Daily-Planner
 Daily Planner Application
 
+ https://zainase7835.github.io/Challenge-7-Daily-Planner/
+ 
 ![Screenshot of daily planner](images/Capture50.PNG)
 
 ## Description:
