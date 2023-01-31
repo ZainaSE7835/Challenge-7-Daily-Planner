@@ -1,7 +1,7 @@
 # Challenge-7-Daily-Planner
 Daily Planner Application
 
-[!Screenshot of daily planner](./images/Capture50.PNG)
+[!Screenshot of daily planner](/images/Capture50.PNG)
 
 ## Description:
 
